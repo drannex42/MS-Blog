@@ -1,21 +1,21 @@
 {
-  "name": "Ghostium",
-  "version": "2.2.1",
-  "description": "A Ghost theme focused on content based on Medium design/ux",
-  "url": "http://ghostium.oswaldoacauan.com/",
-  "copyright": "2013",
-  "license": "MIT",
+  "name": "Macleod Sawyer",
+  "version": "0.0.1",
+  "description": "",
+  "url": "http://macleodsawyer.com/",
+  "copyright": "2015",
+  "license": "",
   "author": {
-    "name": "Oswaldo Acauan",
-    "email": "hello@oswaldoacauan.com",
-    "url": "http://oswaldoacauan.com"
+    "name": "Macleod Sawyer",
+    "email": "hello@omxcleod.com",
+    "url": "http://macleodsawyer.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:oswaldoacauan/ghostium.git"
+    "url": "git@github.com:macleodsawyer/MS-Blog.git"
   },
   "bugs": {
-    "url": "https://github.com/oswaldoacauan/ghostium/issues"
+    "url": "https://github.com/macleodsawyer/MS-Blog/issues"
   },
   "keywords": [
     "ghost",
