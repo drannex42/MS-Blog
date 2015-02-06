@@ -1,0 +1,12 @@
+  <div class="cover-container">
+    {{#if @blog.logo}}
+      <a href="{{@blog.url}}" class="cover-logo" data-pjax>
+        <img src="{{@blog.logo}}" alt="Blog Logo">
+      </a>
+    {{/if}}
+    <h1 class="cover-title"><a href="/">{{@blog.title}}</a></h1>
+    <p class="cover-description">
+        {{@blog.description}}
+        {{> cover-social}}
+      </p>
+  </div>
